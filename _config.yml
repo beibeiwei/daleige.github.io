@@ -12,7 +12,7 @@ github_repo: "https://github.com/daleige/daleige.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "生活终归会过成自己想要的样子，趁年轻，尽情作吧!"
-sidebar-avatar: img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/myhead.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
